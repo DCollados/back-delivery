@@ -6,7 +6,19 @@ Fluxo FastAPI sobe pelo main e carrega todas a dependencias necessarias (rotas, 
 
 Facil de escalar e totalmente protegido
 
-tecnologias usadas Python FastAPI SQLAlchemy Alembic Pydantic JWT para autenticação
+tecnologias usadas 
+
+Python 
+
+FastAPI 
+
+SQLAlchemy 
+
+Alembic 
+
+Pydantic 
+
+JWT para autenticação
 
 Como rodar -> 1. Clone o repositório
 
